@@ -1,0 +1,58 @@
+C:\School\PersonalProject\WordleCode\WordleTest\WordleTest\bin\Debug\net10.0\WordleTest.exe
+C:\School\PersonalProject\WordleCode\WordleTest\WordleTest\bin\Debug\net10.0\WordleTest.deps.json
+C:\School\PersonalProject\WordleCode\WordleTest\WordleTest\bin\Debug\net10.0\WordleTest.runtimeconfig.json
+C:\School\PersonalProject\WordleCode\WordleTest\WordleTest\bin\Debug\net10.0\WordleTest.dll
+C:\School\PersonalProject\WordleCode\WordleTest\WordleTest\bin\Debug\net10.0\WordleTest.pdb
+C:\School\PersonalProject\WordleCode\WordleTest\WordleTest\obj\Debug\net10.0\WordleTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\School\PersonalProject\WordleCode\WordleTest\WordleTest\obj\Debug\net10.0\WordleTest.AssemblyInfoInputs.cache
+C:\School\PersonalProject\WordleCode\WordleTest\WordleTest\obj\Debug\net10.0\WordleTest.AssemblyInfo.cs
+C:\School\PersonalProject\WordleCode\WordleTest\WordleTest\obj\Debug\net10.0\WordleTest.csproj.CoreCompileInputs.cache
+C:\School\PersonalProject\WordleCode\WordleTest\WordleTest\obj\Debug\net10.0\WordleTest.dll
+C:\School\PersonalProject\WordleCode\WordleTest\WordleTest\obj\Debug\net10.0\refint\WordleTest.dll
+C:\School\PersonalProject\WordleCode\WordleTest\WordleTest\obj\Debug\net10.0\WordleTest.pdb
+C:\School\PersonalProject\WordleCode\WordleTest\WordleTest\obj\Debug\net10.0\WordleTest.genruntimeconfig.cache
+C:\School\PersonalProject\WordleCode\WordleTest\WordleTest\obj\Debug\net10.0\ref\WordleTest.dll
+C:\Users\gabva\Desktop\Bureau\WordleCode-20260330T203225Z-1-001\WordleCode\WordleTest\WordleTest\obj\Debug\net10.0\WordleTest.dll
+C:\Users\gabva\Desktop\Bureau\WordleCode-20260330T203225Z-1-001\WordleCode\WordleTest\WordleTest\obj\Debug\net10.0\refint\WordleTest.dll
+C:\Users\gabva\Desktop\Bureau\WordleCode-20260330T203225Z-1-001\WordleCode\WordleTest\WordleTest\obj\Debug\net10.0\WordleTest.pdb
+C:\Users\gabva\Desktop\Bureau\WordleCode-20260330T203225Z-1-001\WordleCode\WordleTest\WordleTest\obj\Debug\net10.0\WordleTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabva\Desktop\Bureau\WordleCode-20260330T203225Z-1-001\WordleCode\WordleTest\WordleTest\obj\Debug\net10.0\WordleTest.AssemblyInfoInputs.cache
+C:\Users\gabva\Desktop\Bureau\WordleCode-20260330T203225Z-1-001\WordleCode\WordleTest\WordleTest\obj\Debug\net10.0\WordleTest.AssemblyInfo.cs
+C:\Users\gabva\Desktop\Bureau\WordleCode-20260330T203225Z-1-001\WordleCode\WordleTest\WordleTest\obj\Debug\net10.0\WordleTest.csproj.CoreCompileInputs.cache
+C:\Users\gabva\Desktop\Bureau\WordleCode-20260330T203225Z-1-001\WordleCode\WordleTest\WordleTest\bin\Debug\net10.0\WordleTest.exe
+C:\Users\gabva\Desktop\Bureau\WordleCode-20260330T203225Z-1-001\WordleCode\WordleTest\WordleTest\bin\Debug\net10.0\WordleTest.deps.json
+C:\Users\gabva\Desktop\Bureau\WordleCode-20260330T203225Z-1-001\WordleCode\WordleTest\WordleTest\bin\Debug\net10.0\WordleTest.runtimeconfig.json
+C:\Users\gabva\Desktop\Bureau\WordleCode-20260330T203225Z-1-001\WordleCode\WordleTest\WordleTest\bin\Debug\net10.0\WordleTest.dll
+C:\Users\gabva\Desktop\Bureau\WordleCode-20260330T203225Z-1-001\WordleCode\WordleTest\WordleTest\bin\Debug\net10.0\WordleTest.pdb
+C:\Users\gabva\Desktop\Bureau\WordleCode-20260330T203225Z-1-001\WordleCode\WordleTest\WordleTest\obj\Debug\net10.0\WordleTest.genruntimeconfig.cache
+C:\Users\gabva\Desktop\Bureau\WordleCode-20260330T203225Z-1-001\WordleCode\WordleTest\WordleTest\obj\Debug\net10.0\ref\WordleTest.dll
+C:\Users\gabva\Desktop\Bureau\WordleCode-20260330T203225Z-1-001\WordleCode\WordleTest\WordleTest\bin\Debug\net10.0\System.Windows.Extensions.dll
+C:\Users\gabva\Desktop\Bureau\WordleCode-20260330T203225Z-1-001\WordleCode\WordleTest\WordleTest\bin\Debug\net10.0\runtimes\win\lib\net10.0\System.Windows.Extensions.dll
+C:\Users\gabva\Desktop\Bureau\WordleCode-20260330T203225Z-1-001\WordleCode\WordleTest\WordleTest\obj\Debug\net10.0\WordleTest.csproj.AssemblyReference.cache
+C:\Users\gabva\Desktop\Bureau\WordleCode-20260330T203225Z-1-001\WordleCode\WordleTest\WordleTest\obj\Debug\net10.0\WordleTest.csproj.Up2Date
+C:\Users\gabva\Desktop\Bureau\WordleCode-20260330T203225Z-1-001\WordleCode\WordleTest\WordleTest\bin\Debug\net10.0\Resources\GreenSound.wav
+C:\Users\gabva\Desktop\Bureau\WordleCode-20260330T203225Z-1-001\WordleCode\WordleTest\WordleTest\bin\Debug\net10.0\Resources\WhiteSound.wav
+C:\Users\gabva\Desktop\Bureau\WordleCode-20260330T203225Z-1-001\WordleCode\WordleTest\WordleTest\bin\Debug\net10.0\Resources\YellowSound.wav
+C:\Users\gabva\Desktop\Bureau\WordleCode-20260330T203225Z-1-001\WordleCode\WordleTest\WordleTest\bin\Debug\net10.0\Resources\Victory.wav
+C:\Users\gabva\OneDrive - Cégep de Sainte-Foy\Desktop\WordleCode-20260330T203225Z-1-001-20260331T162437Z-1-001\WordleCode-20260330T203225Z-1-001\WordleCode\WordleTest\WordleTest\bin\Debug\net10.0\WordleTest.exe
+C:\Users\gabva\OneDrive - Cégep de Sainte-Foy\Desktop\WordleCode-20260330T203225Z-1-001-20260331T162437Z-1-001\WordleCode-20260330T203225Z-1-001\WordleCode\WordleTest\WordleTest\bin\Debug\net10.0\Resources\GreenSound.wav
+C:\Users\gabva\OneDrive - Cégep de Sainte-Foy\Desktop\WordleCode-20260330T203225Z-1-001-20260331T162437Z-1-001\WordleCode-20260330T203225Z-1-001\WordleCode\WordleTest\WordleTest\bin\Debug\net10.0\Resources\Victory.wav
+C:\Users\gabva\OneDrive - Cégep de Sainte-Foy\Desktop\WordleCode-20260330T203225Z-1-001-20260331T162437Z-1-001\WordleCode-20260330T203225Z-1-001\WordleCode\WordleTest\WordleTest\bin\Debug\net10.0\Resources\WhiteSound.wav
+C:\Users\gabva\OneDrive - Cégep de Sainte-Foy\Desktop\WordleCode-20260330T203225Z-1-001-20260331T162437Z-1-001\WordleCode-20260330T203225Z-1-001\WordleCode\WordleTest\WordleTest\bin\Debug\net10.0\Resources\YellowSound.wav
+C:\Users\gabva\OneDrive - Cégep de Sainte-Foy\Desktop\WordleCode-20260330T203225Z-1-001-20260331T162437Z-1-001\WordleCode-20260330T203225Z-1-001\WordleCode\WordleTest\WordleTest\bin\Debug\net10.0\WordleTest.deps.json
+C:\Users\gabva\OneDrive - Cégep de Sainte-Foy\Desktop\WordleCode-20260330T203225Z-1-001-20260331T162437Z-1-001\WordleCode-20260330T203225Z-1-001\WordleCode\WordleTest\WordleTest\bin\Debug\net10.0\WordleTest.runtimeconfig.json
+C:\Users\gabva\OneDrive - Cégep de Sainte-Foy\Desktop\WordleCode-20260330T203225Z-1-001-20260331T162437Z-1-001\WordleCode-20260330T203225Z-1-001\WordleCode\WordleTest\WordleTest\bin\Debug\net10.0\WordleTest.dll
+C:\Users\gabva\OneDrive - Cégep de Sainte-Foy\Desktop\WordleCode-20260330T203225Z-1-001-20260331T162437Z-1-001\WordleCode-20260330T203225Z-1-001\WordleCode\WordleTest\WordleTest\bin\Debug\net10.0\WordleTest.pdb
+C:\Users\gabva\OneDrive - Cégep de Sainte-Foy\Desktop\WordleCode-20260330T203225Z-1-001-20260331T162437Z-1-001\WordleCode-20260330T203225Z-1-001\WordleCode\WordleTest\WordleTest\bin\Debug\net10.0\System.Windows.Extensions.dll
+C:\Users\gabva\OneDrive - Cégep de Sainte-Foy\Desktop\WordleCode-20260330T203225Z-1-001-20260331T162437Z-1-001\WordleCode-20260330T203225Z-1-001\WordleCode\WordleTest\WordleTest\bin\Debug\net10.0\runtimes\win\lib\net10.0\System.Windows.Extensions.dll
+C:\Users\gabva\OneDrive - Cégep de Sainte-Foy\Desktop\WordleCode-20260330T203225Z-1-001-20260331T162437Z-1-001\WordleCode-20260330T203225Z-1-001\WordleCode\WordleTest\WordleTest\obj\Debug\net10.0\WordleTest.csproj.AssemblyReference.cache
+C:\Users\gabva\OneDrive - Cégep de Sainte-Foy\Desktop\WordleCode-20260330T203225Z-1-001-20260331T162437Z-1-001\WordleCode-20260330T203225Z-1-001\WordleCode\WordleTest\WordleTest\obj\Debug\net10.0\WordleTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabva\OneDrive - Cégep de Sainte-Foy\Desktop\WordleCode-20260330T203225Z-1-001-20260331T162437Z-1-001\WordleCode-20260330T203225Z-1-001\WordleCode\WordleTest\WordleTest\obj\Debug\net10.0\WordleTest.AssemblyInfoInputs.cache
+C:\Users\gabva\OneDrive - Cégep de Sainte-Foy\Desktop\WordleCode-20260330T203225Z-1-001-20260331T162437Z-1-001\WordleCode-20260330T203225Z-1-001\WordleCode\WordleTest\WordleTest\obj\Debug\net10.0\WordleTest.AssemblyInfo.cs
+C:\Users\gabva\OneDrive - Cégep de Sainte-Foy\Desktop\WordleCode-20260330T203225Z-1-001-20260331T162437Z-1-001\WordleCode-20260330T203225Z-1-001\WordleCode\WordleTest\WordleTest\obj\Debug\net10.0\WordleTest.csproj.CoreCompileInputs.cache
+C:\Users\gabva\OneDrive - Cégep de Sainte-Foy\Desktop\WordleCode-20260330T203225Z-1-001-20260331T162437Z-1-001\WordleCode-20260330T203225Z-1-001\WordleCode\WordleTest\WordleTest\obj\Debug\net10.0\WordleTest.csproj.Up2Date
+C:\Users\gabva\OneDrive - Cégep de Sainte-Foy\Desktop\WordleCode-20260330T203225Z-1-001-20260331T162437Z-1-001\WordleCode-20260330T203225Z-1-001\WordleCode\WordleTest\WordleTest\obj\Debug\net10.0\WordleTest.dll
+C:\Users\gabva\OneDrive - Cégep de Sainte-Foy\Desktop\WordleCode-20260330T203225Z-1-001-20260331T162437Z-1-001\WordleCode-20260330T203225Z-1-001\WordleCode\WordleTest\WordleTest\obj\Debug\net10.0\refint\WordleTest.dll
+C:\Users\gabva\OneDrive - Cégep de Sainte-Foy\Desktop\WordleCode-20260330T203225Z-1-001-20260331T162437Z-1-001\WordleCode-20260330T203225Z-1-001\WordleCode\WordleTest\WordleTest\obj\Debug\net10.0\WordleTest.pdb
+C:\Users\gabva\OneDrive - Cégep de Sainte-Foy\Desktop\WordleCode-20260330T203225Z-1-001-20260331T162437Z-1-001\WordleCode-20260330T203225Z-1-001\WordleCode\WordleTest\WordleTest\obj\Debug\net10.0\WordleTest.genruntimeconfig.cache
+C:\Users\gabva\OneDrive - Cégep de Sainte-Foy\Desktop\WordleCode-20260330T203225Z-1-001-20260331T162437Z-1-001\WordleCode-20260330T203225Z-1-001\WordleCode\WordleTest\WordleTest\obj\Debug\net10.0\ref\WordleTest.dll

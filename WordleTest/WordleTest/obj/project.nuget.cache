@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "sUHrCpU32C8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gabva\\OneDrive - Cégep de Sainte-Foy\\Desktop\\WordleCode-20260330T203225Z-1-001-20260331T162437Z-1-001\\WordleCode-20260330T203225Z-1-001\\WordleCode\\WordleTest\\WordleTest\\WordleTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gabva\\.nuget\\packages\\system.windows.extensions\\10.0.5\\system.windows.extensions.10.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
